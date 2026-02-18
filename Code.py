@@ -414,8 +414,9 @@ def generate_report_stitching_figure(input_frames_path, global_matrices, off_x, 
 
 #
 # # --- Execution ---
-# input_frames_path = r"C:\Users\Ido\Desktop\CS_Projects\IMPR\Ex4\Exercise Inputs-20251220\Iguazu"
+# input_frames_path = "
 # generate_panorama(input_frames_path, 10)
-input_path = r"C:\Users\Ido\Desktop\CS_Projects\IMPR\Ex4\Exercise Inputs-20251220\boat"
+# input_path =
 output_img = "optical_flow_visualization.jpg"
+
 generate_panorama(input_path, 100)
