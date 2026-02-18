@@ -79,8 +79,6 @@ Empirical parameters:
 
 ---
 
-## Conclusion
-
 This project demonstrates how **space-time panorama videos** can be generated from ordinary video footage using optical flow and global motion accumulation.  
 
 - Successfully creates smooth changing-viewpoint panoramas.  
