@@ -1,4 +1,6 @@
 # Space-Time Panorama Video
+![panorama_middle_view](https://github.com/user-attachments/assets/f415c2ea-3b89-4092-bece-f5c1553ab611)
+
 ---
 
 ## Project Overview
